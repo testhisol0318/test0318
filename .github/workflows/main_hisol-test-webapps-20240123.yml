@@ -54,4 +54,4 @@ jobs:
           app-name: 'hisol-test-Webapps-20240123'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1687B21C362B49AC9B1D12E3DB06FF32 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E943FB3767404322883EB58AE244B9F8 }}
